@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class TesteApplication extends SpringBootServletInitializer {
 
 	@Override
-    protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-        return application.sources(TesteApplication.class);
+    protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
+        return builder.sources(TesteApplication.class);
     }
 	
 	public static void main(String[] args) {
