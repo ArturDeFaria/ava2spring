@@ -12,9 +12,13 @@ PROFESSOR: DENIS GONÇALVES COPLE
 PARTICIPANTES:
 
 Artur de Faria – 1200103025
+
 Breno Sobral Matos - 1210102032
+
 Júlia Oliveira da Silva – 1180201161
+
 Leandro Alves Santos - 1200200950
+
 Wellington Junior Rodrigues da Silva - 1200101333
 
 
